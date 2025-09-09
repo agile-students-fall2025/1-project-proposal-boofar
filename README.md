@@ -4,7 +4,7 @@
 
 - [Aaqila Patel](https://github.com/aaqilap)
 - [Preston lee](https://github.com/prestonglee0805)
-- [name](link to github here)
+- [Andy Cabindol](https://github.com/andycabindol)
 - [name](link to github here)
 - [name](link to github here)
 
@@ -12,19 +12,19 @@
 
 MoodSphere, a mobile-friendly web application that helps users track their emotions, reflect on their mental well-being, and connect with friends for support.
 
-Mental health challenges are increasingly common among students and young professionals, yet many people struggle to pause and check in with themselves. Journaling and mindfulness are proven strategies, but people often forget to practice them consistently. MoodSphere solves this by sending notifications throughout the day that encourage quick emotional check-ins, making self-reflection part of a daily routine.
+Mental health challenges are increasingly common among college students and young professionals, yet many people struggle to pause and check in with themselves due to busy schedules and trouble accessing external resources. Journaling and mindfulness are proven strategies, but people often forget to practice them consistently. MoodSphere solves this by gently encouraging quick emotional check-ins by sending notifications throughout the day, making self-reflection a habit.
 
 By integrating journaling with social features, MoodSphere creates both a private space for self-care and an optional supportive community for users who want to share their feelings with trusted friends.
 
 ## For Whom?
 
-MoodSphere is designed for college students and young adults who want an accessible, non-intimidating way to manage their emotions. Our initial end-users are our classmates, friends, and peers — people who already use mobile apps daily and who often express a need for better mental health support but may not be ready to pursue therapy. It also connects friends on another level by sharing moods and emotions in a unique, more entertaining manner. 
+MoodSphere is designed for college students and young adults who want an accessible, non-intimidating way to manage their emotions. Our initial users are our classmates and friends — people who already use apps daily and who often express a need for better mental health support but may not be ready to pursue therapy. It also connects friends on another level by sharing moods and emotions in a unique, more entertaining manner. 
 
-By targeting real, everyday users like ourselves, we can validate the app’s value quickly and adjust the design to make it engaging and useful.
+By targeting real, everyday users like ourselves and those around us, we can validate the app’s value quickly and adjust the design to make it engaging and useful.
 
 ## How?
 
-From the end-user’s perspective, MoodSphere will include:
+From the user’s perspective, MoodSphere will include:
 
 Mood Check-Ins: Users record their mood multiple times per day through quick prompts (e.g., “How are you feeling right now?”).
 
