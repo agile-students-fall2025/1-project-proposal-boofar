@@ -6,7 +6,6 @@
 - [Preston lee](https://github.com/prestonglee0805)
 - [Andy Cabindol](https://github.com/andycabindol)
 - [name](link to github here)
-- [name](link to github here)
 
 ## What and Why?
 
